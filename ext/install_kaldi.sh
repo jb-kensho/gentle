@@ -1,4 +1,5 @@
 #!/bin/bash
+set -eux
 
 # Prepare Kaldi
 cd kaldi/tools

@@ -5,6 +5,7 @@
 #include "hmm/hmm-utils.h"
 #include "hmm/transition-model.h"
 #include "util/common-utils.h"
+#include "kaldi/src/tree/context-dep.h"
 #include <fst/script/arcsort.h>
 #include <fst/script/compile.h>
 
